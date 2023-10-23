@@ -67,8 +67,10 @@ and so on
 
 To create an inline link, we wrap the link text in brackets ( `[ ]` ), and then we wrap the link in parentheses ( `( )` ). For example, to create a hyperlink to www.google.com, with a link text that says, Visit google!, we would write this: `[Visit Google!](www.google.com)`.
 
+[Search for it.](www.google.com)
+
 _Sentence_  
-[You're **really, really** going to want to see this.](www.dailykitten.com)  
+[You're **really, really** going to want to see this.](www.dailykitten.com)
 #### The Latest News from [the BBC](www.bbc.com/news)
 
 
@@ -85,11 +87,12 @@ _Sentence_
 
 
 _Examples_  
-Do you want to [see something fun][visit]?  
-Well, do I have [the website for you][another fun place]!  
+Do you want to [see something fun][a fun place]?
 
-[visit]: www.zombo.com
-[another fun place]: www.stumbleupon.com  
+Well, do I have [the website for you][another fun place]!
+
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com
 
 
 # Images
