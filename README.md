@@ -2,11 +2,11 @@
 # Prakash Acharya Web Excercise
 
 ## Lesson Summary
-  ### Basic Markdown Elements:
+### Basic Markdown Elements:
 # Itallics
 
 We can make a phrase Itallic by surrounding it with underscore `_`  
-Fro example `_this_` would become itallic.
+For example `_this_` would become itallic.
 
 Lets make the word 'not' and 'hard' itallic:
 
@@ -143,14 +143,13 @@ I read this interesting quote the other day:
 
 
 
- # Lists
+# Lists
 
  To create an unordered list, you'll want to preface each item in the list with an asterisk ( * ). Each list item also gets its own line. For example, a grocery list in Markdown might look like this:
-
-`  * Milk `  
-`  * Eggs `  
-`  * Salmon `  
-`  * Butter `  
+`*Milk`  
+`*Eggs`  
+`*Salmon`  
+`*Butter`  
  
 **_Implementation_**
 
